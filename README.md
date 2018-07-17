@@ -6,7 +6,7 @@ ggplot2 and highcharter themes for the S4G group
 ```
 devtools::install_github('stats4good/s4ggthemes')
 
-library(ggplot2
+library(ggplot2)
 library(s4ggthemes)
 
 ggplot(mtcars, aes(x = mpg)) + 
