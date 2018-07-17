@@ -1,0 +1,15 @@
+Package: s4ggthemes
+Type: Package
+Title: ggplot2 and highcharter themes for the S4G group
+Version: 0.0.1
+Date: 2018-07-17
+Author@R: person("Godoy", "Lucas", email = "lucasdac.godoy@gmail.com",
+  role = c("aut", "cre"))
+Description: Auxiliar R package.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+  ggplot2,
+  grDevices
+RoxygenNote: 6.0.1
